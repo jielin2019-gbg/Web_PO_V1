@@ -1,0 +1,20 @@
+2023-01-26 21:49:27.494 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="用户名"]')可见
+2023-01-26 21:49:27.495 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="用户名"]')的第一个元素可见。。。
+2023-01-26 21:49:28.040 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:28.040 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="用户名"]')输入文本('student123',)
+2023-01-26 21:49:28.134 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="密码"]')可见
+2023-01-26 21:49:28.134 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="密码"]')的第一个元素可见。。。
+2023-01-26 21:49:28.146 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:28.146 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="密码"]')输入文本('123456a',)
+2023-01-26 21:49:28.220 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="验证码"]')可见
+2023-01-26 21:49:28.220 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="验证码"]')的第一个元素可见。。。
+2023-01-26 21:49:28.231 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:28.231 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="验证码"]')输入文本('lemon',)
+2023-01-26 21:49:28.297 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@value="登录"]')可见
+2023-01-26 21:49:28.298 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@value="登录"]')的第一个元素可见。。。
+2023-01-26 21:49:28.308 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:28.308 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//input[@value="登录"]')
+2023-01-26 21:49:28.339 | INFO     | tools.basepage:wait_until_page_contains_ele:46 - 等待元素('xpath', '//p[@class="el-message__content"]')存在于页面中。。。
+2023-01-26 21:49:28.865 | INFO     | tools.basepage:wait_until_page_contains_ele:53 - 等待成功
+2023-01-26 21:49:28.866 | INFO     | tools.basepage:get_ele_text:104 - 获取元素('xpath', '//p[@class="el-message__content"]')的文本
+2023-01-26 21:49:28.885 | INFO     | tools.basepage:get_ele_text:107 - 获取到的值为账号或密码不正确

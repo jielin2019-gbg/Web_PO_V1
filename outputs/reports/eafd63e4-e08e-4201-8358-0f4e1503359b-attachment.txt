@@ -1,0 +1,6 @@
+function2 setup
+function setup
+helloworld2
+function teardown
+function2 teardown
+class teardown

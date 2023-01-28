@@ -1,0 +1,93 @@
+2023-01-26 21:48:36.250 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="用户名"]')可见
+2023-01-26 21:48:36.251 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="用户名"]')的第一个元素可见。。。
+2023-01-26 21:48:36.277 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:36.277 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="用户名"]')输入文本('student',)
+2023-01-26 21:48:36.351 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="密码"]')可见
+2023-01-26 21:48:36.354 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="密码"]')的第一个元素可见。。。
+2023-01-26 21:48:36.372 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:36.372 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="密码"]')输入文本('123456a',)
+2023-01-26 21:48:36.443 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="验证码"]')可见
+2023-01-26 21:48:36.443 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="验证码"]')的第一个元素可见。。。
+2023-01-26 21:48:36.461 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:36.461 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="验证码"]')输入文本('lemon',)
+2023-01-26 21:48:36.523 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@value="登录"]')可见
+2023-01-26 21:48:36.523 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@value="登录"]')的第一个元素可见。。。
+2023-01-26 21:48:36.546 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:36.546 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//input[@value="登录"]')
+2023-01-26 21:48:46.627 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//div[@class="mul-pic-upload"]//i[@class="el-icon-plus"]')可见
+2023-01-26 21:48:46.627 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//div[@class="mul-pic-upload"]//i[@class="el-icon-plus"]')的第一个元素可见。。。
+2023-01-26 21:48:48.202 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:48.202 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//div[@class="mul-pic-upload"]//i[@class="el-icon-plus"]')
+2023-01-26 21:48:48.287 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//div[@class="img-item"]')可见
+2023-01-26 21:48:48.287 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//div[@class="img-item"]')的第一个元素可见。。。
+2023-01-26 21:48:49.376 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:49.376 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//div[@class="img-item"]')
+2023-01-26 21:48:49.452 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//div[@class="el-badge item"]//span[text()="确 定"]')可见
+2023-01-26 21:48:49.452 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//div[@class="el-badge item"]//span[text()="确 定"]')的第一个元素可见。。。
+2023-01-26 21:48:49.472 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:49.472 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//div[@class="el-badge item"]//span[text()="确 定"]')
+2023-01-26 21:48:49.522 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//div[@class="el-cascader"]//input[@placeholder="请选择"]')可见
+2023-01-26 21:48:49.523 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//div[@class="el-cascader"]//input[@placeholder="请选择"]')的第一个元素可见。。。
+2023-01-26 21:48:49.546 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:49.547 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//div[@class="el-cascader"]//input[@placeholder="请选择"]')
+2023-01-26 21:48:49.940 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待['xpath', '//span[text()="服饰鞋包"]']可见
+2023-01-26 21:48:49.941 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配['xpath', '//span[text()="服饰鞋包"]']的第一个元素可见。。。
+2023-01-26 21:48:50.523 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:50.523 | INFO     | tools.basepage:click:69 - 点击元素['xpath', '//span[text()="服饰鞋包"]']
+2023-01-26 21:48:50.587 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待['xpath', '//span[text()="鞋类"]']可见
+2023-01-26 21:48:50.588 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配['xpath', '//span[text()="鞋类"]']的第一个元素可见。。。
+2023-01-26 21:48:50.614 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:50.614 | INFO     | tools.basepage:click:69 - 点击元素['xpath', '//span[text()="鞋类"]']
+2023-01-26 21:48:50.652 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待['xpath', '//span[text()="皮鞋"]']可见
+2023-01-26 21:48:50.652 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配['xpath', '//span[text()="皮鞋"]']的第一个元素可见。。。
+2023-01-26 21:48:50.675 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:50.675 | INFO     | tools.basepage:click:69 - 点击元素['xpath', '//span[text()="皮鞋"]']
+2023-01-26 21:48:50.722 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//label[text()="产品分组"]/following-sibling::div//input[@placeholder="请选择"]')可见
+2023-01-26 21:48:50.722 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//label[text()="产品分组"]/following-sibling::div//input[@placeholder="请选择"]')的第一个元素可见。。。
+2023-01-26 21:48:50.748 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:50.748 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//label[text()="产品分组"]/following-sibling::div//input[@placeholder="请选择"]')
+2023-01-26 21:48:50.789 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待['xpath', '//li[@class="el-select-dropdown__item"]//span[text()="商城热卖"]']可见
+2023-01-26 21:48:50.789 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配['xpath', '//li[@class="el-select-dropdown__item"]//span[text()="商城热卖"]']的第一个元素可见。。。
+2023-01-26 21:48:51.351 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:51.351 | INFO     | tools.basepage:click:69 - 点击元素['xpath', '//li[@class="el-select-dropdown__item"]//span[text()="商城热卖"]']
+2023-01-26 21:48:51.422 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//label[text()="产品分组"]/following-sibling::div[@class="el-form-item__content"]//div[@class="el-select__tags"]')可见
+2023-01-26 21:48:51.422 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//label[text()="产品分组"]/following-sibling::div[@class="el-form-item__content"]//div[@class="el-select__tags"]')的第一个元素可见。。。
+2023-01-26 21:48:51.442 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:51.442 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//label[text()="产品分组"]/following-sibling::div[@class="el-form-item__content"]//div[@class="el-select__tags"]')
+2023-01-26 21:48:51.486 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//tr//input[@class="el-input__inner"]')可见
+2023-01-26 21:48:51.486 | INFO     | tools.basepage:wait_until_ele_visible:25 - 等待匹配('xpath', '//tr//input[@class="el-input__inner"]')的所有个元素可见.....
+2023-01-26 21:48:51.552 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:51.552 | INFO     | tools.basepage:input_text:92 - 在<selenium.webdriver.remote.webelement.WebElement (session="3e4226def99d7a9e38a54e892c522357", element="f696cda2-8f26-4762-8a18-577215afe20c")>输入文本('100',)
+2023-01-26 21:48:51.635 | INFO     | tools.basepage:input_text:92 - 在<selenium.webdriver.remote.webelement.WebElement (session="3e4226def99d7a9e38a54e892c522357", element="0732b804-9a8c-47d2-8224-6926840a1fac")>输入文本('88',)
+2023-01-26 21:48:51.694 | INFO     | tools.basepage:input_text:92 - 在<selenium.webdriver.remote.webelement.WebElement (session="3e4226def99d7a9e38a54e892c522357", element="8125e967-eb1e-4db8-b244-21d9b646f144")>输入文本('99',)
+2023-01-26 21:48:51.776 | INFO     | tools.basepage:input_text:92 - 在<selenium.webdriver.remote.webelement.WebElement (session="3e4226def99d7a9e38a54e892c522357", element="3150136b-6a6c-413b-81f5-bf2e94112f4c")>输入文本('tbCSpXYaflwV',)
+2023-01-26 21:48:51.862 | INFO     | tools.basepage:input_text:92 - 在<selenium.webdriver.remote.webelement.WebElement (session="3e4226def99d7a9e38a54e892c522357", element="62daa0ca-089f-4319-958b-89ba68eb74e9")>输入文本('5',)
+2023-01-26 21:48:51.920 | INFO     | tools.basepage:input_text:92 - 在<selenium.webdriver.remote.webelement.WebElement (session="3e4226def99d7a9e38a54e892c522357", element="3855b2a9-84f9-41e7-953f-9328c2f8c7aa")>输入文本('2',)
+2023-01-26 21:48:51.983 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//button[@type="button"]/preceding-sibling::div//input')可见
+2023-01-26 21:48:51.983 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//button[@type="button"]/preceding-sibling::div//input')的第一个元素可见。。。
+2023-01-26 21:48:51.999 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:51.999 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//button[@type="button"]/preceding-sibling::div//input')
+2023-01-26 21:48:52.037 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//span[text()="包邮"]')可见
+2023-01-26 21:48:52.037 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//span[text()="包邮"]')的第一个元素可见。。。
+2023-01-26 21:48:52.585 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:52.585 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//span[text()="包邮"]')
+2023-01-26 21:48:52.621 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="商品名称"]')可见
+2023-01-26 21:48:52.621 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="商品名称"]')的第一个元素可见。。。
+2023-01-26 21:48:52.645 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:52.646 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="商品名称"]')输入文本('py54自动化应用TUAjg',)
+2023-01-26 21:48:52.810 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//textarea[@placeholder="产品卖点"]')可见
+2023-01-26 21:48:52.810 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//textarea[@placeholder="产品卖点"]')的第一个元素可见。。。
+2023-01-26 21:48:52.832 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:52.832 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//textarea[@placeholder="产品卖点"]')输入文本('好用，实在',)
+2023-01-26 21:48:52.924 | INFO     | tools.basepage:switch_to_iframe:126 - 切换到iframe。
+2023-01-26 21:48:52.952 | INFO     | tools.basepage:switch_to_iframe:129 - 切换iframe成功
+2023-01-26 21:48:52.953 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//body[@id="tinymce"]//p')可见
+2023-01-26 21:48:52.953 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//body[@id="tinymce"]//p')的第一个元素可见。。。
+2023-01-26 21:48:52.971 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:52.971 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//body[@id="tinymce"]//p')输入文本('py54很厉害，大家多多少少都有点儿阳了,,,',)
+2023-01-26 21:48:53.190 | INFO     | tools.basepage:switch_to_default:136 - 切换到默认的html中去
+2023-01-26 21:48:53.202 | INFO     | tools.basepage:switch_to_default:139 - 切换回html成功
+2023-01-26 21:48:53.202 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//button[@class="el-button el-button--primary"]//span[text()="确 定"]')可见
+2023-01-26 21:48:53.202 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//button[@class="el-button el-button--primary"]//span[text()="确 定"]')的第一个元素可见。。。
+2023-01-26 21:48:53.221 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:48:53.221 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//button[@class="el-button el-button--primary"]//span[text()="确 定"]')

@@ -1,0 +1,16 @@
+2023-01-26 21:49:15.078 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="用户名"]')可见
+2023-01-26 21:49:15.079 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="用户名"]')的第一个元素可见。。。
+2023-01-26 21:49:15.102 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:15.102 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="用户名"]')输入文本('student',)
+2023-01-26 21:49:15.193 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="密码"]')可见
+2023-01-26 21:49:15.195 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="密码"]')的第一个元素可见。。。
+2023-01-26 21:49:15.212 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:15.212 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="密码"]')输入文本('123456a',)
+2023-01-26 21:49:15.289 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@placeholder="验证码"]')可见
+2023-01-26 21:49:15.289 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@placeholder="验证码"]')的第一个元素可见。。。
+2023-01-26 21:49:15.306 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:15.306 | INFO     | tools.basepage:input_text:92 - 在('xpath', '//input[@placeholder="验证码"]')输入文本('lemon',)
+2023-01-26 21:49:15.370 | INFO     | tools.basepage:wait_until_ele_visible:22 - 等待('xpath', '//input[@value="登录"]')可见
+2023-01-26 21:49:15.371 | INFO     | tools.basepage:wait_until_ele_visible:28 - 等待匹配('xpath', '//input[@value="登录"]')的第一个元素可见。。。
+2023-01-26 21:49:15.391 | INFO     | tools.basepage:wait_until_ele_visible:35 - 等待成功！
+2023-01-26 21:49:15.391 | INFO     | tools.basepage:click:69 - 点击元素('xpath', '//input[@value="登录"]')
